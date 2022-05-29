@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Push up",
+      "done": true,
+      "count": 10
+    },
+    {
+      "id": 2,
+      "text": "Sprints",
+      "done": true,
+      "count": 10
+    },
+    {
+      "id": 3,
+      "text": "Squats",
+      "done": true,
+      "count": 10
+    },
+    {
+      "id": 4,
+      "text": "Shit up",
+      "done": false,
+      "count": 10
+    },
+    {
+      "id": 5,
+      "text": "Pull up",
+      "done": false,
+      "count": 10
+    },
+    {
+      "text": "hello",
+      "done": false,
+      "count": 10,
+      "id": 6
+    }
+  ]
+}
